@@ -26,7 +26,7 @@ type ChatResponse = {
   ticket: Ticket | null;
 };
 
-const API_URL = "http://127.0.0.1:8000/chat";
+const API_URL = "https://it-support-assistant-kmkm.onrender.com/chat";
 
 function App() {
   const [messages, setMessages] = useState<Message[]>([]);
