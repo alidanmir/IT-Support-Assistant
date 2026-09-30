@@ -7,7 +7,7 @@ The project uses a React frontend, FastAPI backend, OpenAI tool calling, semanti
 
 ## Live Demo
 
-Frontend:
+Frontend & Live UI:
 https://it-support-assistant-theta.vercel.app
 
 Backend API:
