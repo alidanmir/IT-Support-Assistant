@@ -1,0 +1,17 @@
+[
+  {
+    "id": "IT-001",
+    "title": "IT Equipment Support Policy",
+    "content": "Employees should report unresolved docking-station issues through the internal IT support portal.\n\nThe report must include:\n- Laptop model\n- Docking-station model\n- Description of the issue\n- Troubleshooting steps already attempted\n\nA replacement docking station requires approval from IT.\nEmployees should not purchase a replacement themselves."
+  },
+  {
+    "id": "IT-002",
+    "title": "Password Reset Policy",
+    "content": "Employees must use the company self-service password reset portal to reset a forgotten password.\n\nIf they cannot access the portal, they must contact IT support.\n\nEmployees must never share passwords or verification codes."
+  },
+  {
+    "id": "IT-003",
+    "title": "VPN Access Policy",
+    "content": "Remote access to internal company systems requires the approved VPN.\n\nEmployees must obtain IT approval before VPN access is enabled.\n\nIf a VPN connection fails, record the error message and contact IT."
+  }
+]

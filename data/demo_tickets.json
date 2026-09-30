@@ -1,0 +1,90 @@
+[
+  {
+    "ticket_id": "DEMO-0001",
+    "status": "open",
+    "laptop_model": "Dell Latitude 5420",
+    "docking_station_model": "Dell WD19",
+    "issue_description": "Monitor stays black when connected through the dock.",
+    "troubleshooting_steps": "Checked cable connections. Monitor works when connected directly to the laptop."
+  },
+  {
+    "ticket_id": "DEMO-0002",
+    "status": "open",
+    "laptop_model": "Dell Latitude 5420",
+    "docking_station_model": "Dell WD19",
+    "issue_description": "Monitor stays black when connected through the dock.",
+    "troubleshooting_steps": "Checked the cable connections. Connected the monitor directly to the laptop, and it worked."
+  },
+  {
+    "ticket_id": "DEMO-0003",
+    "status": "open",
+    "laptop_model": "Dell Latitude 5420",
+    "docking_station_model": "Dell WD19",
+    "issue_description": "Monitor is black through the docking station.",
+    "troubleshooting_steps": "Checked the cable connections and connected the monitor directly to the laptop, where it worked."
+  },
+  {
+    "ticket_id": "DEMO-0004",
+    "status": "open",
+    "laptop_model": "Dell Latitude 5420",
+    "docking_station_model": "Dell WD19",
+    "issue_description": "The monitor stays black through the dock.",
+    "troubleshooting_steps": "I checked the cable connections. The monitor works when connected directly to the laptop."
+  },
+  {
+    "ticket_id": "DEMO-0005",
+    "status": "open",
+    "laptop_model": "Lenovo ThinkPad T14",
+    "docking_station_model": "Lenovo USB-C Dock Gen 2",
+    "issue_description": "External monitor disconnects intermittently.",
+    "troubleshooting_steps": "Reseated the monitor cable; issue continues."
+  },
+  {
+    "ticket_id": "DEMO-0006",
+    "status": "open",
+    "laptop_model": "Dell Latitude 5420",
+    "docking_station_model": "Dell WD19",
+    "issue_description": "External monitor keeps disconnecting.",
+    "troubleshooting_steps": "Unplugged and reconnected the monitor cable, but the issue persists."
+  },
+  {
+    "ticket_id": "DEMO-0007",
+    "status": "open",
+    "laptop_model": "HP EliteBook 840 G8",
+    "docking_station_model": "HP USB-C Dock G5",
+    "issue_description": "External monitor keeps flickering.",
+    "troubleshooting_steps": "Disconnected and reconnected the HDMI cable, but the flickering continues."
+  },
+  {
+    "ticket_id": "DEMO-0008",
+    "status": "open",
+    "laptop_model": "Lenovo ThinkPad T14",
+    "docking_station_model": "Lenovo USB-C Dock Gen 2",
+    "issue_description": "External monitor keeps disconnecting.",
+    "troubleshooting_steps": "Reseated the monitor cable, but issue still happens."
+  },
+  {
+    "ticket_id": "DEMO-0009",
+    "status": "closed",
+    "laptop_model": "Lenovo ThinkPad T14",
+    "docking_station_model": "Lenovo USB-C Dock Gen 2",
+    "issue_description": "External monitor keeps disconnecting.",
+    "troubleshooting_steps": "Reseated the monitor cable, but the issue still happens."
+  },
+  {
+    "ticket_id": "DEMO-0010",
+    "status": "open",
+    "laptop_model": "Dell Latitude 5420",
+    "docking_station_model": "Dell WD19",
+    "issue_description": "External monitor keeps disconnecting.",
+    "troubleshooting_steps": "Reseated the HDMI cable and restarted the dock, but the issue still happens."
+  },
+  {
+    "ticket_id": "DEMO-0011",
+    "status": "open",
+    "laptop_model": "Lenovo ThinkPad T14",
+    "docking_station_model": "Lenovo USB-C Dock Gen 2",
+    "issue_description": "External monitor keeps disconnecting.",
+    "troubleshooting_steps": "Reseated the monitor cable and restarted the dock, but the issue still happens."
+  }
+]
