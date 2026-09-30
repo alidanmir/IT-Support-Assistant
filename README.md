@@ -4,6 +4,19 @@ An AI-powered IT support application that can answer company policy questions, l
 
 The project uses a React frontend, FastAPI backend, OpenAI tool calling, semantic search with embeddings, and persistent local ticket storage.
 
+
+## Live Demo
+
+Frontend:
+https://it-support-assistant-theta.vercel.app
+
+Backend API:
+https://it-support-assistant-kmkm.onrender.com
+
+API Documentation:
+https://it-support-assistant-kmkm.onrender.com/docs
+
+
 ## Demo
 
 The assistant supports three main workflows:
